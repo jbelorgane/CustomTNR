@@ -1,0 +1,9 @@
+folders2/subfolder22/file2.txt
+folders2/file1.txt
+folder1/file1.txt
+file1.txt
+file2.txt
+folders3/subfolders33/file2.txt
+folders3/subfolders33/subfolder333/file3.txt
+folders3/file1.txt
+file3.txt

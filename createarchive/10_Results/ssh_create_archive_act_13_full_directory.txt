@@ -1,0 +1,6 @@
+folders4/subfolders44/
+folders4/subfolders44/picture.jpg
+folders4/subfolders44/subfolders444/
+folders4/subfolders44/subfolders444/picture.jpeg
+folders4/subfolders44/subfolders444/subfolder4444/
+folders4/subfolders44/subfolders444/subfolder4444/picture.png
